@@ -25,8 +25,6 @@
 <div align="center">
   <a href="https://github.com/GabrielPombo75">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPombo75&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-</div>
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPombo75&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 	
@@ -35,6 +33,4 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
-
-
 
